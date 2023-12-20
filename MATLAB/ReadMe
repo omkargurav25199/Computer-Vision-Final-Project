@@ -1,5 +1,5 @@
+#Overview
 
-##Overview
 This MATLAB code is designed for the automated detection of hand joints in X-ray images, contributing to the screening and classification of Osteoarthritis (OA). The code performs essential tasks such as data loading, preprocessing, feature extraction, and identification of key hand joints, which are crucial for subsequent OA severity assessments.
 
 Removing Images Without Labels
