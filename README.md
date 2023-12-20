@@ -13,7 +13,7 @@ The primary task of this project is to devise an algorithm capable of automatica
 ### Solution 1: Computer Vision Algorithm
 Develop a computer vision algorithm leveraging image features such as edges, shapes, and intensity ranges. The algorithm should progress through image processing steps, including binarization, morphological operations, edge detection, etc., to accurately locate the joints. The goal is to create a step-by-step image analysis pipeline that robustly identifies hand joints.
 
-### Solution 2: Machine Learning for Object Detection
+### Solution 2: Deep Learning for Object Detection
 Train a machine learning model for object detection using a pre-labeled dataset provided for this project. You have the option to utilize popular deep learning models such as YOLO, Mask R-CNN, or other established models. While there is no requirement to implement the model from scratch, you need to find and download the code, adapting it to run on the provided dataset. The dataset should be divided into testing data (15%) and training data (85%).
 
 ## Instructions for Usage
